@@ -31,7 +31,7 @@ include('includes/config.php');?>
 
          				<style>
 	 body{ 
-  background: url(76ym.gif) no-repeat center center fixed; 
+  background: url(76YM.gif) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

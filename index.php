@@ -123,8 +123,8 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
                                                     </div>
 													
                                                    <center><p>- For Get your important School Documents -</p>	</center>
-													<center><p><a href="http://localhost/apolloplus/APOLLO+/docstore/login.php" class="button-style"> APOLLO+ Doc Store</a></p>	</center>
-													  <center><p><a href="http://localhost/apolloplus/APOLLO+/messanger/login.php" class="button-style"> APOLLO+ Messanger</a></p>	</center>
+													<center><p><a href="https://apollo-plus.herokuapp.com/docstore/login.php" class="button-style"> APOLLO+ Doc Store</a></p>	</center>
+													  <center><p><a href="https://apollo-plus.herokuapp.com/messanger/login.php" class="button-style"> APOLLO+ Messanger</a></p>	</center>
 													
                                                     <form class="form-horizontal" method="post">
                                                         <div class="form-group">

@@ -53,10 +53,10 @@
                                             <li><a href="manage-results.php"><i class="fa fa fa-server"></i> <span>Manage Result</span></a></li>
                                         </ul>
 										<li><a href="calen.html"><i class="fa fa fa-server"></i> <span> Calender</span></a></li>  
-										<li><a href="http://localhost/apolloplus/APOLLO+/docstore/login.php"target="_blank"><i class="fa fa-file-text"></i> <span>APOLLO+ Doc Store</span></a></li>
+										<li><a href="https://apollo-plus.herokuapp.com/Docstore/login.php"target="_blank"><i class="fa fa-file-text"></i> <span>APOLLO+ Doc Store</span></a></li>
 										
-										<li><a href="http://localhost/apolloplus/APOLLO+/messanger/login.php"target="_blank"><i class="fa fa-file-text"></i> <span>APOLLO+ Messenger</span></a></li>
-										<li><a href="http://localhost/apolloplus/APOLLO+/certificate/"target="_blank"><i class="fa fa-file-text"></i> <span> Generate Certificate</span></a></li>
+										<li><a href="https://apollo-plus.herokuapp.com/messanger/login.php"target="_blank"><i class="fa fa-file-text"></i> <span>APOLLO+ Messenger</span></a></li>
+										<li><a href="https://apollo-plus.herokuapp.com/certificate/"target="_blank"><i class="fa fa-file-text"></i> <span> Generate Certificate</span></a></li>
 										  
                                         <li><a href="change-password.php"><i class="fa fa fa-server"></i> <span> Admin Change Password</span></a></li>
 										

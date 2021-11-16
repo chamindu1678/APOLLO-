@@ -126,7 +126,7 @@ else if($error){?>
 <div class="form-group">
 <label for="default" class="col-sm-2 control-label">Student ID</label>
 <div class="col-sm-10">
-<input type="text" name="rollid" class="form-control" id="rollid" maxlength="5" required="required" autocomplete="off"<br> <p><font color="red">*</font> When issuing a student id | Enter School short name and Index Number (Ex -: GCC-0001)</p>
+<input type="text" name="rollid" class="form-control" id="rollid" maxlength="10" required="required" autocomplete="off"<br> <p><font color="red">*</font> When issuing a student id | Enter School short name and Index Number (Ex -: GCC-0001)</p>
 </div>
 </div>
 
@@ -184,7 +184,7 @@ foreach($results as $result)
                                                     
                                                     <div class="form-group">
                                                         <div class="col-sm-offset-2 col-sm-10">
-														<input type="button" onclick="location.href='http://localhost/SRMSS/filesystem/login.php';"target="_blank" value="ADD Files to APOLLO+ DOC STORE"><br><br>
+														<input type="button" onclick="location.href='https://apollo-plus.herokuapp.com/Docstore/';"target="_blank" value="ADD Files to APOLLO+ DOC STORE"><br><br>
                                                             <button type="submit" name="submit" class="btn btn-primary">Add Student Information</button>
 															
                                                         </div>

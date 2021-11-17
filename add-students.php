@@ -126,7 +126,7 @@ else if($error){?>
 <div class="form-group">
 <label for="default" class="col-sm-2 control-label">Student ID</label>
 <div class="col-sm-10">
-<input type="text" name="rollid" class="form-control" id="rollid" maxlength="10" required="required" autocomplete="off"<br> <p><font color="red">*</font> When issuing a student id | Enter School short name and Index Number (Ex -: GCC-0001)</p>
+<input type="text" name="rollid" class="form-control" id="rollid" maxlength="10" required="required" autocomplete="on"<br> <p><font color="red">*</font> When issuing a student id | Enter name as AP and Index Number (Ex -:AP0001)</p>
 </div>
 </div>
 

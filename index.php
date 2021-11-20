@@ -199,7 +199,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
                                                       
                                                         <div class="form-group mt-20">
                                                     		<div class="col-sm-offset-2 col-sm-10">
-                                                  
+                                                  <br>
                                                     			<button type="submit" name="login" class="btn btn-success btn-labeled pull-right">Sign in<span class="btn-label btn-label-right"><i class="fa fa-check"></i></span></button>
                                                     		
 															</div>

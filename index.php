@@ -182,7 +182,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 
                                                     <form class="form-horizontal" method="post">
                                                     	<div class="form-group"><br>
-														 <center><p>- Manage Student Information -</p>	</center>
+														 <center><p>- Manage Student Information -</p>	</center><br>
                                                     		<label for="inputEmail3" class="col-sm-2 control-label">Tch ID</label>
                                                     		<div class="col-sm-10">
                                                     			<input type="text" name="username" class="form-control" id="inputEmail3" placeholder="UserName">

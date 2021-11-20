@@ -214,6 +214,7 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
                                                 </div>
                                             </div>
                                             <!-- /.panel -->
+						<center><p><a href="https://apollo-plus.herokuapp.com/Pricing" class="button-style"> Go To APOLLO+ Website</a></p>	</center>
 											
 											
                                             <p class="text-muted text-center"><font color="white"><small>Copyright © APOLLO+ 2021</small></p></font>

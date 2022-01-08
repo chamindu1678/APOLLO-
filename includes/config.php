@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','https://www.db4free.net');
+define('DB_HOST','db4free.net');
 define('DB_USER','apollomain');
 define('DB_PASS','ApolloPlus1');
 define('DB_NAME','apollo');

@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','databases.000webhost.com');
-define('DB_USER','id18243669_apollodb1');
-define('DB_PASS','Apolloplus1@');
-define('DB_NAME','id18243669_apollomain');
+define('DB_HOST','sql6.freesqldatabase.com');
+define('DB_USER','sql6464115');
+define('DB_PASS','ijZ2WtUwg3');
+define('DB_NAME',' sql6464115');
 // Establish database connection.
 try
 {

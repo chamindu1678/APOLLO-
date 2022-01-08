@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','remotemysql.com');
-define('DB_USER','BOcF0FA5TZ');
-define('DB_PASS','Djq2Wl9j32');
-define('DB_NAME','BOcF0FA5TZ');
+define('DB_HOST','sql6.freesqldatabase.com');
+define('DB_USER','sql6463082');
+define('DB_PASS','Gf7VfdtIJc');
+define('DB_NAME','sql6463082');
 // Establish database connection.
 try
 {

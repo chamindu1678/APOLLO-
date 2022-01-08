@@ -3,7 +3,7 @@
 define('DB_HOST','https://www.db4free.net');
 define('DB_USER','apollomain');
 define('DB_PASS','ApolloPlus1');
-define('DB_NAME',' apollo');
+define('DB_NAME','apollo');
 // Establish database connection.
 try
 {

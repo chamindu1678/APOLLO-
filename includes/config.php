@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
+define('DB_HOST','databases.000webhost.com');
 define('DB_USER','id18243669_apollodb1');
 define('DB_PASS','Apolloplus1@');
 define('DB_NAME','id18243669_apollomain');
